@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+  }
+
+h1 {
+    color: white;
+  }
+
+.large-screen {
+  background-color: yellow;
+}
+
+.middle-screen {
+  background-color: purple;
+}
+
+.small-screen {
+  background-color: aquamarine;
+}
